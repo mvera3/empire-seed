@@ -1,0 +1,18 @@
+# Godot 4 editor cache / imported resources
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+
+# Bundled Godot editor binary (171 MB — too large for GitHub; download separately)
+Godot_v4.7-stable_win64.exe/
+
+# Build / export output
+build/
+*.exe
+*.pck
+*.zip
+
+# OS noise
+.DS_Store
+Thumbs.db
